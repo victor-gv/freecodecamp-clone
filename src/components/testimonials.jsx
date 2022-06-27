@@ -1,4 +1,3 @@
-import React from 'react';
 import '../stylesheets/testimony.css';
 
 export function Testimony(props){

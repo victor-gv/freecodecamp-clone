@@ -1,5 +1,5 @@
 import './App.css';
-import { Testimony }from './components/testimonials.js';
+import { Testimony } from './components/testimonials.jsx';
 
 function App() {
   return (
